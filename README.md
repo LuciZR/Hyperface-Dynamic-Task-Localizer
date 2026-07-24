@@ -9,4 +9,4 @@ The main analysis focused on representational similarity analysis (RSA) within t
 
 The repository includes the code used to organize the data, run the fMRI analyses, generate representational dissimilarity matrices, and visualize the results.
 
-Contributors: [Lucia Z-Rivera](https://github.com/LuciZR) [Jillian O'Malley](https://github.com/jomalle) [Bailey Harris](https://github.com/baileyb-harris) [Natalia Pallis-Hassani](https://github.com/nataliakph) [Heather Laurel Jensen](https://github.com/heatherlaureljensen) [Emily Fitzgerald](https://github.com/e2fitzgerald)
+Contributors: [Lucia Z-Rivera](https://github.com/LuciZR), [Jillian O'Malley](https://github.com/jomalle), [Bailey Harris](https://github.com/baileyb-harris),[Natalia Pallis-Hassani](https://github.com/nataliakph), [Heather Laurel Jensen](https://github.com/heatherlaureljensen)& [Emily Fitzgerald](https://github.com/e2fitzgerald)
